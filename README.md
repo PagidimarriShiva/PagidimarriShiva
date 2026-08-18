@@ -2,69 +2,137 @@
 
 # Hi, I'm Shiva Pagidimarri 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Aspiring+Data+Analyst;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Tableau+%E2%80%A2+Python;Turning+raw+data+into+decisions" alt="Typing SVG" />
+### Data Analyst | SQL | Power BI | Python | Excel
 
-</div>
+Turning raw data into meaningful insights through analysis, dashboards, and business-focused reporting.
 
-```
-$ whoami
-
-NAME        Shiva Pagidimarri
-ROLE        Data Analyst
-LOCATION    Nalgonda, Telangana, India
-STACK       Python · SQL (MySQL) · Power BI · Tableau · Excel
-TOOLBOX     Pandas · NumPy · Jupyter · Git
-FOCUS       Dashboards · Reporting automation · Data storytelling
-CURRENTLY   Open to Data Analyst / BI Analyst roles
-```
-
-<div align="center">
-
-### 🧰 Tools I work with
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/shiva-pagidimarri/) • [Portfolio](https://pagidimarrishiva.github.io/)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<div align="center">
+I'm a Data Analyst focused on using data to answer business questions and support better decisions.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PagidimarriShiva&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=PagidimarriShiva&theme=tokyonight&hide_border=true" />
+My core experience includes:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PagidimarriShiva&layout=compact&theme=tokyonight&hide_border=true" />
+- **SQL / MySQL** for data extraction, transformation, KPI analysis, and business analysis
+- **Power BI / DAX** for interactive dashboards, data modeling, and reporting
+- **Python / Pandas** for data cleaning, exploratory data analysis, and feature engineering
+- **Excel** for analysis, reporting, and business insights
 
-</div>
+I've built end-to-end analytics projects covering **e-commerce, customer churn, and social media performance**, including a Power BI dashboard developed for a real client.
 
----
-
-### 📌 Featured Projects
-
-- **[Customer Churn Analysis](https://github.com/PagidimarriShiva/Customer_Churn_Analysis)** — End-to-end dashboard flagging customers likely to churn and the drivers behind it
-- **[Retail Sales Analysis (MySQL)](https://github.com/PagidimarriShiva/RETAIL_SALES_MYSQL)** — SQL-driven analysis of retail sales data to surface trends and top performers
-- **[Blinkit Data Analysis](https://github.com/PagidimarriShiva/BLINKIT_DATA_ANALYSIS)** — Exploratory analysis of quick-commerce order and sales data in Python
+Currently seeking **Data Analyst, Junior Data Analyst, and Power BI Analyst** opportunities.
 
 ---
 
-### 🔗 Let's Connect
+## 🛠️ Technical Skills
 
-<div align="center">
+**Data Analysis:** SQL, MySQL, Python, Pandas, NumPy, Excel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-pagidimarri/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/PagidimarriShiva)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppagidimarrishiva@gmail.com)
+**Business Intelligence:** Power BI, DAX, Power Query, Data Modeling
 
-![Profile Views](https://komarev.com/ghpvc/?username=PagidimarriShiva&color=58A6FF&style=flat)
+**Visualization:** Power BI, Tableau, Matplotlib, Seaborn
 
-</div>
+**Analytics:** EDA, KPI Analysis, Customer Segmentation, RFM Analysis, Statistical Analysis
+
+**Tools:** MySQL Workbench, Jupyter Notebook, Git, GitHub
+
+---
+
+## 📊 Featured Projects
+
+### 🛒 E-Commerce Customer & Sales Analytics
+
+**MySQL | Advanced SQL | Business Analysis**
+
+Analyzed **20,000 orders, 43,525 items sold, and 80,000 user engagement events** to understand sales performance, customer behavior, and conversion opportunities.
+
+**Key analysis:**
+- Revenue and AOV analysis
+- RFM customer segmentation
+- Customer ranking using `DENSE_RANK()`
+- Month-over-month revenue trends using `LAG()`
+- View-to-purchase conversion analysis
+- Product rating and performance analysis
+
+🔗 [View Project](https://github.com/PagidimarriShiva/Ecommerce-Sql-Business-Case-Study)
+
+---
+
+### 📉 Customer Churn Analysis
+
+**SQL | Python | Power BI | EDA**
+
+Built an end-to-end churn analysis pipeline to identify customer segments with higher churn and understand the factors associated with customer attrition.
+
+**Key analysis:**
+- Churn rate analysis by contract and customer segments
+- Data cleaning and exploratory analysis using Python
+- Feature engineering for customer behavior analysis
+- SQL views for BI reporting
+- Interactive Power BI dashboard
+- Business recommendations for retention
+
+🔗 [View Project](https://github.com/PagidimarriShiva/Customer_Churn_Analysis)
+
+---
+
+### 📱 Social Media Engagement Analytics
+
+**Power BI | DAX | SQL | Excel**
+
+Developed a **4-page Power BI dashboard for Little Red Zombies (LRZ)** to monitor social media performance across Instagram, X, LinkedIn, and ArtStation.
+
+**Tracked 14 business KPIs including:**
+- Engagement Rate
+- Reach
+- Impressions
+- Follower Growth
+- Saves and Shares
+- Content Performance
+
+The analysis identified platform-level performance patterns and provided recommendations for improving content strategy and posting consistency.
+
+🔗 [View Project](https://github.com/PagidimarriShiva/Social-Media-Engagement-Analytics-Dashboard)
+
+---
+
+## 🎓 Education
+
+**B.Tech  — Computer Science and Engineering**
+
+Mahatma Gandhi University (MGU)  
+2021 – 2025
+
+---
+
+## 📜 Certifications
+
+- **MySQL Certification** — HackerRank
+- **Data Analytics Job Simulation** — Deloitte via Forage
+- **Data Analytics & Business Analytics** — Naresh i Technologies
+
+---
+
+## 📈 What I'm Looking For
+
+I'm currently looking for entry-level opportunities as a:
+
+- Data Analyst
+- Junior Data Analyst
+- Power BI Analyst
+- Business Intelligence Analyst
+
+Open to opportunities across **Hyderabad, Bengaluru, Pune, Chennai, and remote roles in India**.
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/shiva-pagidimarri/)
+- [Portfolio](https://pagidimarrishiva.github.io/)
+- [GitHub](https://github.com/PagidimarriShiva)
